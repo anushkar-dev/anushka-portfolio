@@ -4,7 +4,7 @@ A clean, responsive personal portfolio website showcasing my skills, projects, c
 
 ## 🌐 Live Portfolio
 
-[View My Portfolio]anushka-portfolio-ycl9.vercel.app
+[View My Portfolio](https://anushka-portfolio-ycl9.vercel.app)
 
 ## ✨ Features
 
